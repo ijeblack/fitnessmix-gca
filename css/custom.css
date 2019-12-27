@@ -1,0 +1,47 @@
+.coaching {
+    font-size: 60px;
+    text-transform: none;
+    margin-top: 88px;
+}
+
+.section1 {
+    background-color: #4285F4;
+    color: white;
+    padding: 30px 41px;
+}
+
+.section2 {
+    background-color: #3773D7;
+    color: white;
+    padding: 30px 41px;
+}
+
+.section3 {
+    background-color: #2A64C5;
+    color: white;
+    padding: 30px 41px;
+}
+
+.c-blue {
+    color: #4285F4;
+}
+
+.ready {
+    background-color: blue;
+    padding: 50px 0px;
+}
+
+.form-sect {
+    margin-top: 100px;
+    margin-bottom: 145px;
+}
+
+.form-option {
+    display: inline-block;
+    font-size: 20px;
+    color: blue;
+    background: #0000ff14;
+    padding: 23px 40px;
+    margin-bottom: 0px;
+    margin-top: 14px;
+}
